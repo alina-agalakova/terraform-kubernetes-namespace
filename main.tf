@@ -12,3 +12,4 @@ resource "kubernetes_namespace" "example" {
   }
 }
 
+
